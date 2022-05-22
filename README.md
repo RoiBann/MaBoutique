@@ -15,3 +15,9 @@ Stripe est une plateforme de traitement des paiements qui vous permet de transf�
  bancaire d'un client vers le compte de votre entreprise au moyen d'une transaction par carte de crédit.<hr>
 <h2>A venir</h2>
 Rien de prévu à court terme, mais je compte bien l'améliorer dès que possible.<hr>
+<h2>Screenshots</h2>
+
+![livraison](https://user-images.githubusercontent.com/38115723/169708639-8e2f08ef-578f-47f1-bb0b-d1e84a911283.JPG)
+![selection_produit](https://user-images.githubusercontent.com/38115723/169708664-84a5ff17-9353-46d0-b2c5-d69f0fc04814.JPG)
+![panier](https://user-images.githubusercontent.com/38115723/169708668-6d187e8f-f716-4a99-ba25-d6a0188f7c71.JPG)
+
